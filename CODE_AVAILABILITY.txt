@@ -1,0 +1,9 @@
+Code availability statement
+
+The MATLAB implementation of the surface-sliding method is available at:
+
+https://github.com/DariushAmirkhani/surface-sliding-ellipsoid-distance
+
+The repository includes the main demonstration script, helper functions for ellipsoid geometry and rotations, and citation information for the accompanying paper:
+
+D. Amirkhani and J. Zhang, "Simple but not Simpler: A Surface-Sliding Method for Finding the Minimum Distance between Two Ellipsoids", arXiv:2603.22683, 2026.

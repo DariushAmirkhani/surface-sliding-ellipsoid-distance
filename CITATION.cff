@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Surface-Sliding Ellipsoid Distance"
+type: software
+authors:
+  - family-names: Amirkhani
+    given-names: Dariush
+    affiliation: "School of Engineering and Computer Science, Laurentian University"
+  - family-names: Zhang
+    given-names: Junfeng
+    affiliation: "School of Engineering and Computer Science, Laurentian University"
+version: 1.0.0
+date-released: 2026-03-25
+repository-code: "https://github.com/DariushAmirkhani/surface-sliding-ellipsoid-distance"
+url: "https://github.com/DariushAmirkhani/surface-sliding-ellipsoid-distance"
+abstract: "MATLAB implementation of the surface-sliding method for finding the minimum distance and corresponding closest surface points between two ellipsoids."
+keywords:
+  - ellipsoid distance
+  - surface-sliding method
+  - MATLAB
+  - geometric algorithms
+  - collision detection
+  - contact detection
+license: MIT
+preferred-citation:
+  type: article
+  title: "Simple but not Simpler: A Surface-Sliding Method for Finding the Minimum Distance between Two Ellipsoids"
+  authors:
+    - family-names: Amirkhani
+      given-names: Dariush
+    - family-names: Zhang
+      given-names: Junfeng
+  year: 2026
+  journal: "arXiv preprint arXiv:2603.22683"
+  url: "https://arxiv.org/abs/2603.22683"
