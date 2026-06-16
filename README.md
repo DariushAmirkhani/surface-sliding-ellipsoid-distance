@@ -1,5 +1,7 @@
 # Surface-Sliding Ellipsoid Distance
 
+![Surface Sliding Demo](surface_sliding_two_ellipsoids.gif)
+
 MATLAB implementation of the **surface-sliding method** for finding the minimum distance and corresponding closest surface points between two ellipsoids.
 
 This repository accompanies the preprint:
