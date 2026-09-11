@@ -89,8 +89,7 @@ If you use this code, please cite the accompanying paper:
   author  = {Amirkhani, Dariush and Zhang, Junfeng},
   journal = {Journal of Computational Science},
   year    = {2026},
-  doi     = {YOUR_DOI_HERE},
-  url     = {https://doi.org/10.1016/j.jocs.2026.102998}
+  doi     = {https://doi.org/10.1016/j.jocs.2026.102998},
 }
 ```
 
