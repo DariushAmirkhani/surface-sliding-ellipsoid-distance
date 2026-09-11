@@ -6,8 +6,6 @@
 
 MATLAB implementation of the **surface-sliding method** for finding the minimum distance and corresponding closest surface points between two ellipsoids.
 
-This repository accompanies the preprint:
-
 This repository accompanies the published paper:
 Dariush Amirkhani and Junfeng Zhang,  
 **Simple but not simpler: A surface-sliding method for finding the minimum distance between two ellipsoids**,  
