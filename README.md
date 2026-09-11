@@ -8,12 +8,11 @@ MATLAB implementation of the **surface-sliding method** for finding the minimum 
 
 This repository accompanies the preprint:
 
-> Dariush Amirkhani and Junfeng Zhang,  
-> **Simple but not Simpler: A Surface-Sliding Method for Finding the Minimum Distance between Two Ellipsoids**,  
-> arXiv:2603.22683, 2026.  
-> https://arxiv.org/abs/2603.22683
-
-The manuscript is currently under review.
+This repository accompanies the published paper:
+Dariush Amirkhani and Junfeng Zhang,  
+**Simple but not simpler: A surface-sliding method for finding the minimum distance between two ellipsoids**,  
+*Journal of Computational Science*, 2026.  
+[Read the Paper (Open Access)](./Simple_but_not_Simpler_Amirkhani_Zhang.pdf) | [Journal DOI](https://doi.org/10.1016/j.jocs.2026.102998)
 
 ---
 
@@ -86,11 +85,12 @@ If you use this code, please cite the accompanying paper:
 
 ```bibtex
 @article{AmirkhaniZhang2026SurfaceSliding,
-  title   = {Simple but not Simpler: A Surface-Sliding Method for Finding the Minimum Distance between Two Ellipsoids},
+  title   = {Simple but not simpler: A surface-sliding method for finding the minimum distance between two ellipsoids},
   author  = {Amirkhani, Dariush and Zhang, Junfeng},
-  journal = {arXiv preprint arXiv:2603.22683},
+  journal = {Journal of Computational Science},
   year    = {2026},
-  url     = {https://arxiv.org/abs/2603.22683}
+  doi     = {YOUR_DOI_HERE},
+  url     = {https://doi.org/10.1016/j.jocs.2026.102998}
 }
 ```
 
