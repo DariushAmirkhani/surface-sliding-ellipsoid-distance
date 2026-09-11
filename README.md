@@ -10,7 +10,7 @@ This repository accompanies the published paper:
 Dariush Amirkhani and Junfeng Zhang,  
 **Simple but not simpler: A surface-sliding method for finding the minimum distance between two ellipsoids**,  
 *Journal of Computational Science*, 2026.  
-[Read the Paper (Open Access)](./Simple_but_not_Simpler_Amirkhani_Zhang.pdf) | [Journal DOI](https://doi.org/10.1016/j.jocs.2026.102998)
+[Read the Paper (Open Access)](./Simple%20but%20not%20simpler%20paper.pdf) | [Journal DOI](https://doi.org/10.1016/j.jocs.2026.102998)
 
 ---
 
@@ -87,7 +87,8 @@ If you use this code, please cite the accompanying paper:
   author  = {Amirkhani, Dariush and Zhang, Junfeng},
   journal = {Journal of Computational Science},
   year    = {2026},
-  doi     = {https://doi.org/10.1016/j.jocs.2026.102998},
+  doi     = {10.1016/j.jocs.2026.102998},
+url     = {https://doi.org/10.1016/j.jocs.2026.102998}
 }
 ```
 
