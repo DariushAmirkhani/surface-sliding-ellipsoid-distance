@@ -31,5 +31,5 @@ preferred-citation:
     - family-names: Zhang
       given-names: Junfeng
   year: 2026
-  journal: "arXiv preprint arXiv:2603.22683"
-  url: "https://arxiv.org/abs/2603.22683"
+  journal: "Journal of Computational Science"
+  doi: "https://doi.org/10.1016/j.jocs.2026.102998"
